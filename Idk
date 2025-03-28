@@ -11,6 +11,6 @@ TextLabel.TextSize = 50
 TextLabel.Font = Enum.Font.SourceSansBold
 TextLabel.TextStrokeTransparency = 0
 TextLabel.TextStrokeColor3 = Color3.fromRGB(0, 0, 0)
-TextLabel.TextWrapped = true
+TextLabel.TextWrapped = false
 TextLabel.TextYAlignment = Enum.TextYAlignment.Center
 TextLabel.TextXAlignment = Enum.TextXAlignment.Center
